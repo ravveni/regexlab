@@ -6,6 +6,25 @@
     "start": "electron .",
     "build": "electron-builder build"
   },
+  "build": {
+    "appId": "com.postalley.regexlab",
+    "productName": "RegexLab",
+    "directories": {
+      "output": "dist"
+    },
+    "mac": {
+      "target": ["dmg", "zip"],
+      "icon": "icons/rglab.icns"
+    },
+    "win": {
+      "target": ["nsis"],
+      "icon": "icons/rglab.ico"
+    },
+    "linux": {
+      "target": ["deb", "rpm"],
+      "icon": "icons/rglab.png"
+    }
+  },
   "devDependencies": {
     "electron": "^39.2.4",
     "electron-builder": "^26.0.12"
