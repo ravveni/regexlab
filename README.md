@@ -1,15 +1,15 @@
-```
-______                     _           _     
-| ___ \                   | |         | |    
-| |_/ /___  __ _  _____  _| |     __ _| |__  
-|    // _ \/ _` |/ _ \ \/ / |    / _` | '_ \ 
-| |\ \  __/ (_| |  __/>  <| |___| (_| | |_) |
-\_| \_\___|\__, |\___/_/\_\_____/\__,_|_.__/ 
-            __/ |                            
-           |___/                             
 
-A simple, offline Regex testing application
+<div style="display: flex; align-items: center;">
+<img src="https://github.com/ravveni/regexlab/blob/main/icons/rglab.png?raw=true" width="150" height="150" alt="regexlab icon">
+
 ```
+  ___                  _         _    
+ | _ \___ __ _ _____ _| |   __ _| |__ 
+ |   / -_) _` / -_) \ / |__/ _` | '_ \
+ |_|_\___\__, \___/_\_\____\__,_|_.__/
+         |___/                        
+```
+</div>
 
 ## Usage
 ### Install
