@@ -54,12 +54,12 @@ let currentIndex = 0;
 
 function createResultBox(text, hasBackground) {
   const span = document.createElement('span');
-  
+
   span.style.padding = '5px';
   span.style.marginRight = '10px';
   span.style.display = 'inline-block';
   span.style.borderRadius = '4px';
-  
+
   span.style.fontSize = '14px';
   span.style.color = `hsl(227, 68%, 88%)`;
   span.textContent = text;

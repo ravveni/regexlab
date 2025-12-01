@@ -14,15 +14,15 @@
     },
     "mac": {
       "target": ["dmg", "zip"],
-      "icon": "icons/rglab.icns"
+      "icon": "assets/icons/rglab.icns"
     },
     "win": {
       "target": ["nsis"],
-      "icon": "icons/rglab.ico"
+      "icon": "assets/icons/rglab.ico"
     },
     "linux": {
       "target": ["deb", "rpm"],
-      "icon": "icons/rglab.png"
+      "icon": "assets/icons/rglab.png"
     }
   },
   "devDependencies": {

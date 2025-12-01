@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Argon';
-    src: url('./assets/fonts/MonaspaceArgon.otf') format('opentype');
+    src: url('../assets/fonts/MonaspaceArgon.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
