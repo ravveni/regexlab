@@ -5,7 +5,7 @@
  |_|_\___\__, \___/_\_\____\__,_|_.__/
          |___/                        
 
-A simple, offline Regex testing application
+An elegant, offline Regex testing application
 ```
 
 ![](https://github.com/ravveni/regexlab/blob/main/preview.png?raw=true)
