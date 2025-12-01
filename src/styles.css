@@ -6,35 +6,34 @@
 }
 
 body {
-    font-family: Argon;
     padding: 20px;
     background-color: #181926;
-    color: #cad3f5;
 }
 
-textarea {
+.shared {
     width: 100%;
-    height: 150px;
     margin-bottom: 10px;
+    font-family: Argon;
     font-size: 14px;
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #363a4f;
-    resize: vertical;
     background-color: #1e2030;
     color: #cad3f5;
     box-sizing: border-box;
 }
 
-textarea::placeholder {
+.shared::placeholder {
     color: #6e738d;
+}
+
+textarea {
+    height: 150px;
+    resize: vertical;
 }
 
 #results {
     background-color: #24273a;
-    font-size: 14px;
-    padding: 10px;
-    border-radius: 5px;
     border: 1px solid #494d64;
     white-space: pre-wrap;
     word-wrap: break-word;
