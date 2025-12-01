@@ -8,7 +8,7 @@
 An elegant, offline Regex testing application
 ```
 
-![](https://github.com/ravveni/regexlab/blob/main/preview.png?raw=true)
+![](https://github.com/ravveni/regexlab/blob/main/preview.gif?raw=true)
 
 ## Usage
 ### Install
